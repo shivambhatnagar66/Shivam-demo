@@ -1,4 +1,5 @@
 # Shivam-demo
 This is my first git repository
 <br>
-Author - Shivam Bhatnagar (Demo)
+<b>Author</b> - Shivam Bhatnagar (Demo)
+Lets learn python
